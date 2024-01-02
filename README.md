@@ -3,7 +3,7 @@ Welcome to the Rock, Paper, Scissors game implemented in Python! This simple and
 
 # How to Play
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone [https://github.com/your-username/rock-paper-scissors.git](https://github.com/vania-munjar/Rock-Paper-Scissors)
 
 2. Navigate to the project directory:
 cd rock-paper-scissors
